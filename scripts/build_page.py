@@ -63,7 +63,7 @@ html = f"""<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Name a Song Over Six Minutes Long</title>
-<meta name="description" content="{len(responses):,} Bluesky users were asked to name a song over six minutes long. Here is what they picked.">
+<meta name="description" content="What Bluesky picked when asked to name a song over six minutes long, from {len(responses):,} replies and quote posts.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500;700;800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap" rel="stylesheet">
